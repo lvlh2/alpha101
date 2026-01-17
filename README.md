@@ -2,7 +2,7 @@
 
 **alpha101** is a Python implementation of the "101 Formulaic Alphas" by WorldQuant.
 
-Binary factors that take values in $\{0, 1\}$ or $\{−1, 1\}$ (e.g., Alpha#21) are difficult to analyze using standard asset pricing methods like portfolio sorts or Fama-MacBeth regressions, thus currently **not implemented**.
+Binary factors that take values in {0, 1} or {−1, 1} (e.g., Alpha#21) are difficult to analyze using standard asset pricing methods like portfolio sorts or Fama-MacBeth regressions, thus currently **not implemented**.
 
 **Reference Paper**: Kakushadze, Z. (2016), 101 Formulaic Alphas. Wilmott, 2016: 72-81. <https://doi.org/10.1002/wilm.10525>
 
